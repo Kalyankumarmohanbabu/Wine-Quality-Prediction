@@ -53,6 +53,4 @@ Fork the repository.
 * Push to the branch: git push origin feature-name.
 * Create a pull request.
 
-License
-This project is licensed under the MIT License - see the LICENSE file for details.
 
